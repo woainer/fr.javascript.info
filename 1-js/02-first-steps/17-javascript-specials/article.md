@@ -72,7 +72,7 @@ Peut être déclaré en utilisant :
 Un nom de variable peut inclure :
 - Lettres et chiffres, mais le premier caractère ne peut pas être un chiffre.
 - Les caractères `$` et `_` sont normaux, à égalité avec les lettres.
-- Les alphabets et les hiéroglyphes non latins sont également autorisés, mais ils ne sont généralement pas utilisés.
+- Les alphabets et les caractères non latins sont également autorisés, mais ils ne sont généralement pas utilisés.
 
 Les variables sont typées dynamiquement. Elles peuvent stocker n'importe quelle valeur :
 
